@@ -13,10 +13,11 @@
     <div class="sidebar-top">
       <div class="brand"><i class="fa-solid fa-bolt"></i></div>
       <button class="side-item"><i class="fa-solid fa-house"></i></button>
+      <a href="/games/games.html" target="_blank" class="side-link">
       <button class="side-item"><i class="fa-solid fa-gamepad"></i></button>
+      </a>
       <button class="side-item"><i class="fa-brands fa-app-store-ios"></i></button>
       <button class="side-item"><i class="fa-solid fa-robot"></i></button>
-      <button class="side-item"><i class="fa-solid fa-compass"></i></button>
     </div>
     <div class="sidebar-bottom">
       <a href="https://discord.gg/R8PhHHQmnc" target="_blank" class="side-link">
@@ -42,11 +43,13 @@
       </div>
     </header>
     <main>
-      <iframe id="frame" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-modals allow-top-navigation-by-user-activation"></iframe>
+      <iframe id="frame" sandbox="allow-scripts allow-forms allow-popups allow-modals allow-top-navigation-by-user-activation"></iframe>
     </main>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/gh/soap-phia/tinyjet@latest/tinyjet/scramjet.all.js" defer></script>
+  <script src="/scram/scramjet.all.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dreamland"></script>
+  <script src="/baremux/index.js"></script>
   <script type="module" src="viewer.js"></script>
 </body>
 </html>
