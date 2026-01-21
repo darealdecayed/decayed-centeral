@@ -1,1 +1,5 @@
-Loosely based off [https://github.com/alivehamster/scramjet-uv-example](https://github.com/alivehamster/scramjet-uv-example)
+# Decayed centeral:
+1. Over 300+ Games
+2. 3 Kinds of proxies
+3. Weekly UNBLOCKED links
+https://discord.gg/R8PhHHQmnc
